@@ -3,7 +3,7 @@ This is the advance tool to hack anyone's insta id without interacting to target
 
 
 
-#installation
+# installation
 $ apt update && apt upgrade -y 
 $ pkg update
 $ apt install git
