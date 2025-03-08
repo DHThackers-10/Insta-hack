@@ -5,16 +5,27 @@ This is the advance tool to hack anyone's insta id without interacting to target
 
 # installation
 $ apt update && apt upgrade -y 
+
 $ pkg update
+
 $ apt install git
+
 $ pkg install python
+
 $ pkg install clang
+
 $ pkg install libxml2
+
 $ pkg install libxslt
+
 $ pip install requests
+
 $ pip install pytube
+
 $ pip install faker
+
 $ git clone https://github.com/DHThackers-10/Insta-hack.git
+
 $ cd Insta-hack
 
 # usage 
